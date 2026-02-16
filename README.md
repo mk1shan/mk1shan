@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudipa Kishan Imayanga</h1>
-<h3 align="center">Software Engineering Enthusiast | Full Stack Developer | Passionate Learner</h3>
+<h3 align="center">Associate Software Engineer | Devops enthusiast | Full Stack Developer | Passionate Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mk1shan&label=Profile%20views&color=0e75b6&style=flat" alt="mk1shan" /> </p>
 
