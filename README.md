@@ -1,65 +1,62 @@
-<h1 align="center">Hi 👋, I'm Mudipa Kishan Imayanga</h1>
-<h3 align="center">Associate Software Engineer | DevOps & Platform Enthusiast | Full Stack Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Mudipa%20Kishan&fontSize=80&animation=fadeIn&fontAlignY=35" />
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mk1shan&label=Profile%20views&color=0e75b6&style=flat" alt="mk1shan" />
-</p>
-
-- 🔭 **Current Project:** Architecting a **3-Tier DevSecOps Pipeline** for a React-based application using **ArgoCD, Terraform, and EKS**.
-- 🌱 **Full Stack Mastery:** Building scalable applications with the **MERN Stack**, **NestJS**, and **Next.js**.
-- 🛠️ **DevOps Arsenal:** Specialized in **Infrastructure as Code (IaC)**, **GitOps**, and automated CI/CD workflows.
-- 📝 **Articles:** I write about DevOps tools and Web development on [Medium](https://medium.com/@mudipakishanimayanga).
-- 💬 **Ask me about:** React/Next.js performance, NestJS microservices, Jenkins pipelines, and K8s orchestration.
-- 📫 **Contact:** [mudipakishanimayanga@gmail.com](mailto:mudipakishanimayanga@gmail.com)
+<div align="center">
+  <h3>🚀 Associate Software Engineer | DevOps & Platform Enthusiast | Full Stack Developer</h3>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/mudipa-kishan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://medium.com/@mudipakishanimayanga"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="mailto:mudipakishanimayanga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=mk1shan&label=SYSTEM%20ACCESSES&color=0e75b6&style=flat-square" alt="profile views" />
+</div>
 
 ---
 
-### 💻 Software Engineering & Web Development
-| Category | Technologies |
+### ⚡ Operational Overview
+
+- 🔭 **Mission-Critical:** Currently architecting a **3-Tier DevSecOps Pipeline** leveraging **ArgoCD, Terraform, and EKS** for enterprise-grade React deployments.
+- 🏗️ **Architectural DNA:** Specialized in **Infrastructure as Code (IaC)** and **GitOps**—turning manual workflows into automated symphonies.
+- 🛡️ **DevSecOps Advocate:** Integrating security into every layer, from **SonarQube** analysis to **Trivy** vulnerability scanning.
+- ✍️ **Thought Leadership:** Decoding complex DevOps architectures on [Medium](https://medium.com/@mudipakishanimayanga).
+
+---
+
+### 🛠️ The Tech Stack
+
+<div align="center">
+
+| **Core Engineering** | **DevOps & Cloud** |
 | :--- | :--- |
-| **Frontend** | React.js, Next.js, Redux, Tailwind CSS |
-| **Backend** | Node.js, NestJS, Express.js, Java Spring Boot |
-| **Database** | MongoDB, PostgreSQL, MySQL, Redis |
-| **Architecture** | RESTful APIs, Microservices, MVC |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |
+| ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![ArgoCD](https://img.shields.io/badge/argo%20cd-ef7b4d?style=for-the-badge&logo=argo-cd&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) |
+| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) |
+
+</div>
 
 ---
 
-### 🏗️ DevOps & Cloud Expertise
-| Category | Tools |
-| :--- | :--- |
-| **Cloud & IaC** | AWS (EKS, EC2, S3), Terraform |
-| **CI/CD & GitOps** | Jenkins, ArgoCD, GitHub Actions |
-| **Containers** | Docker, Kubernetes (K8s), Helm |
-| **Security & Monitoring** | SonarQube, Trivy, Prometheus, Grafana |
+### 📊 System Diagnostics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mk1shan&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Mudipa's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk1shan&theme=vision-friendly-dark&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk1shan&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🛠 Languages and Tools
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argocd" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</p>
+### 🤝 Let's Collaborate
 
----
+I'm always open to discussing **Scalable Microservices**, **Kubernetes Orchestration**, or the latest in **Cloud Native** technologies. If you have a challenge that needs a DevSecOps mindset, let's talk.
 
-### 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mk1shan&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mk1shan" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mk1shan&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mk1shan" />
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mudipa-kishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudipa-kishan" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" />
+</div>
