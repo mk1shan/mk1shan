@@ -1,62 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Mudipa%20Kishan&fontSize=80&animation=fadeIn&fontAlignY=35" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=250&section=header&text=MUDIPA%20KISHAN&fontSize=70&animation=fadeIn&fontAlignY=40" />
 
-<div align="center">
-  <h3>🚀 Associate Software Engineer | DevOps & Platform Enthusiast | Full Stack Developer</h3>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer;DevOps+%26+Platform+Enthusiast;Full+Stack+Developer;Cloud+Native+Architect" alt="Typing SVG" />
+  </a>
+
   <p align="center">
     <a href="https://linkedin.com/in/mudipa-kishan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://medium.com/@mudipakishanimayanga"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="mailto:mudipakishanimayanga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://mudipakishan.online"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=mk1shan&label=SYSTEM%20ACCESSES&color=0e75b6&style=flat-square" alt="profile views" />
 </div>
 
 ---
 
-### ⚡ Operational Overview
+### 🛰️ Orbital Overview
+> [cite_start]I am a detail-oriented **Full Stack Engineer** [cite: 8, 11] [cite_start]with a passion for bridging the gap between clean code and robust infrastructure[cite: 9, 10]. [cite_start]Currently focused on building high-performance APIs with **NestJS** and architecting automated **GitOps** environments[cite: 8, 88].
 
-- 🔭 **Mission-Critical:** Currently architecting a **3-Tier DevSecOps Pipeline** leveraging **ArgoCD, Terraform, and EKS** for enterprise-grade React deployments.
-- 🏗️ **Architectural DNA:** Specialized in **Infrastructure as Code (IaC)** and **GitOps**—turning manual workflows into automated symphonies.
-- 🛡️ **DevSecOps Advocate:** Integrating security into every layer, from **SonarQube** analysis to **Trivy** vulnerability scanning.
-- ✍️ **Thought Leadership:** Decoding complex DevOps architectures on [Medium](https://medium.com/@mudipakishanimayanga).
+- [cite_start]🛠️ **Engine Room:** Expert in **NestJS**, **React**, and **Next.js** for building scalable SaaS platforms[cite: 43, 57, 68].
+- [cite_start]🛡️ **Shields Up:** Specialized in **DevSecOps**, implementing automated security scanning with **Trivy** and **SonarQube**[cite: 80, 85].
+- [cite_start]☁️ **Cloud Commander:** Hands-on experience with **AWS (EKS, S3, EC2)** and **Kubernetes** orchestration[cite: 37, 87].
+- [cite_start]🎨 **Design Driven:** Former design team member for **Rotaract** and **BCS**, bringing a creative eye to UI/UX[cite: 103].
 
 ---
 
-### 🛠️ The Tech Stack
+### 🏗️ My DevSecOps Pipeline Blueprint
+[cite_start]`Code` → `Build` → `Analyze (SonarQube)` → `Security (Trivy)` → `Containerize (Docker)` → `Deploy (ArgoCD/EKS)` [cite: 80, 81, 85, 88]
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,aws,terraform,githubactions,prometheus,grafana" />
+</div>
 
-| **Core Engineering** | **DevOps & Cloud** |
+---
+
+### 💻 Technical Arsenal
+
+| **Engineering** | **Technologies** |
 | :--- | :--- |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |
-| ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![ArgoCD](https://img.shields.io/badge/argo%20cd-ef7b4d?style=for-the-badge&logo=argo-cd&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) |
-| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) |
+| **Frontend** | [cite_start]React.js, Next.js, Gatsby.js, Astro.js, Tailwind, Material UI [cite: 28, 36, 68, 75] |
+| **Backend** | [cite_start]NestJS, Node.js, Java Spring Boot, RESTful APIs [cite: 15, 20, 31, 35, 36] |
+| **Databases** | [cite_start]MongoDB, PostgreSQL, MySQL, Redis, Neo4j [cite: 36, 68, 74] |
+| **DevOps** | [cite_start]Docker, K8s, Helm, Terraform, Ansible, ArgoCD [cite: 37, 80, 88] |
 
+---
+
+### 📊 System Metrics & Impact
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mk1shan&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk1shan&theme=vision-friendly-dark&hide_border=true&layout=compact" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk1shan&theme=vision-friendly-dark&hide_border=true" />
 </div>
 
 ---
 
-### 📊 System Diagnostics
+### 🏆 Verified Capabilities
+- [cite_start]📜 **AWS Certified:** Solutions Architect Associate & Cloud 101[cite: 93, 96].
+- [cite_start]📜 **DevOps Mastery:** Decoding DevOps - Basics to Advanced Projects[cite: 92].
+- [cite_start]📜 **Infrastructure:** Linux for Beginners (KodeKloud)[cite: 95].
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mk1shan&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Mudipa's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk1shan&theme=vision-friendly-dark&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk1shan&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🤝 Let's Collaborate
-
-I'm always open to discussing **Scalable Microservices**, **Kubernetes Orchestration**, or the latest in **Cloud Native** technologies. If you have a challenge that needs a DevSecOps mindset, let's talk.
-
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" />
+</p>
+
+<div align="center">
+  [cite_start]<sub>Registered Domain: <a href="http://mudipakishan.online">mudipakishan.online</a>  | [cite_start]Based in Sri Lanka 🇱🇰 [cite: 106]</sub>
 </div>
