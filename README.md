@@ -1,58 +1,65 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=MUDIPA+KISHAN+IMAYANGA;SOFTWARE+ENGINEER;DEVOPS+%2F+GIT连OPS;PLATFORM+ENGINEER" alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm Mudipa Kishan Imayanga</h1>
+<h3 align="center">Associate Software Engineer | DevOps & Platform Enthusiast | Full Stack Developer</h3>
 
-  <p align="center">
-    <a href="https://mudipakishan.online"><b>mudipakishan.online</b></a> • 
-    <a href="https://linkedin.com/in/mudipa-kishan"><b>LinkedIn</b></a> • 
-    <a href="https://medium.com/@mudipakishanimayanga"><b>Medium</b></a>
-  </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mk1shan&label=Profile%20views&color=0e75b6&style=flat" alt="mk1shan" />
+</p>
 
-  <img src="https://img.shields.io/github/followers/mk1shan?label=FOLLOWERS&style=for-the-badge&color=00FFD1&labelColor=121212" />
-  <img src="https://komarev.com/ghpvc/?username=mk1shan&label=PROFILE+VIEWS&color=00FFD1&style=for-the-badge" />
-</div>
-
----
-
-### 💻 Engineering Overview
-Associate Software Engineer specializing in building scalable **SaaS Platforms** and modern **Cloud-Native** infrastructure. I bridge the gap between robust **NestJS** backend logic and automated **AWS** deployment.
-
-* 🏗️ **Core Engineering:** Developing high-performance RESTful APIs and Microservices using **NestJS**, **Node.js**, and **Next.js**.
-* ♾️ **DevOps & Infrastructure:** Automating delivery with **Docker**, **Kubernetes (EKS)**, **Terraform**, and **ArgoCD**.
-* 🛡️ **Security-First CI/CD:** Hardening pipelines with **SonarQube** code analysis and **Trivy** vulnerability scanning.
-* 📦 **Database Strategy:** Managing complex data flows with **PostgreSQL**, **MongoDB**, and **MySQL**.
+- 🔭 **Current Project:** Architecting a **3-Tier DevSecOps Pipeline** for a React-based application using **ArgoCD, Terraform, and EKS**.
+- 🌱 **Full Stack Mastery:** Building scalable applications with the **MERN Stack**, **NestJS**, and **Next.js**.
+- 🛠️ **DevOps Arsenal:** Specialized in **Infrastructure as Code (IaC)**, **GitOps**, and automated CI/CD workflows.
+- 📝 **Articles:** I write about DevOps tools and Web development on [Medium](https://medium.com/@mudipakishanimayanga).
+- 💬 **Ask me about:** React/Next.js performance, NestJS microservices, Jenkins pipelines, and K8s orchestration.
+- 📫 **Contact:** [mudipakishanimayanga@gmail.com](mailto:mudipakishanimayanga@gmail.com)
 
 ---
 
-### 🛠️ The DevOps & Cloud Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,ansible,prometheus,grafana,argocd,linux,bash" />
-</div>
-
-### 🛠️ Software Engineering Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,spring,java,mongodb,postgres,mysql,tailwind" />
-</div>
+### 💻 Software Engineering & Web Development
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js, Redux, Tailwind CSS |
+| **Backend** | Node.js, NestJS, Express.js, Java Spring Boot |
+| **Database** | MongoDB, PostgreSQL, MySQL, Redis |
+| **Architecture** | RESTful APIs, Microservices, MVC |
 
 ---
 
-### 📉 System Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mk1shan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk1shan&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk1shan&theme=tokyonight&hide_border=true" width="100%" />
-</div>
+### 🏗️ DevOps & Cloud Expertise
+| Category | Tools |
+| :--- | :--- |
+| **Cloud & IaC** | AWS (EKS, EC2, S3), Terraform |
+| **CI/CD & GitOps** | Jenkins, ArgoCD, GitHub Actions |
+| **Containers** | Docker, Kubernetes (K8s), Helm |
+| **Security & Monitoring** | SonarQube, Trivy, Prometheus, Grafana |
 
 ---
 
-### 🏆 Key Project Milestones
-* **Cloud Native DevSecOps:** Implemented a full GitOps pipeline for a wallpaper application using **ArgoCD** and **EKS**.
-* **SaaS Dental Management:** Built secure **NestJS** APIs for Dentiverse, integrating **Stripe** and **OAuth**.
-* **Dictionary Engine:** Developed a scalable Sinhala linguistic search platform using **Astro.js** and **Docker**.
+### 🛠 Languages and Tools
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argocd" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</p>
 
+---
+
+### 📊 Performance Metrics
 <p align="center">
-  <sub><b>DevOps Portfolio:</b> <a href="https://github.com/mk1shan">github.com/mk1shan</a> | <b>Location:</b> Sri Lanka 🇱🇰</sub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mk1shan&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mk1shan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mk1shan&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mk1shan" />
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mudipa-kishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudipa-kishan" height="30" width="40" /></a>
 </p>
